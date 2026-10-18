@@ -1,0 +1,39 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# === Environnement virtuel ===
+venv/
+env/
+.venv/
+.env/
+
+# === Variables d'environnement (CLÉS API) ===
+.env
+*.env
+
+# === Streamlit ===
+.streamlit/
+
+# === IDE / Éditeurs ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
