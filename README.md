@@ -96,11 +96,5 @@ AI_assistant/
 | [Pillow](https://python-pillow.org/) | Image conversion |
 | [NumPy](https://numpy.org/) | Canvas array manipulation |
 
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute it.
-
 
 
