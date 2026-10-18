@@ -41,7 +41,7 @@
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI_assistant.git
+git clone https://github.com/Souhir29/AI_assistant.git
 cd AI_assistant
 ```
 
@@ -102,9 +102,5 @@ AI_assistant/
 
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute it.
 
----
 
-## 🙌 Acknowledgements
 
-- [cvzone by CVZone](https://github.com/cvzone/cvzone) for the amazing hand tracking module
-- [Google AI Studio](https://aistudio.google.com/) for the Gemini API
